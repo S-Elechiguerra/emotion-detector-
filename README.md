@@ -1,12 +1,10 @@
-Emotion Detector Web Application
+# Final Project – Emotion Detector
 
-This project implements an AI‑based Emotion Detection system using the Watson NLP library.
-It analyzes customer feedback text and identifies emotions such as joy, sadness, anger, fear, and disgust, along with the dominant emotion.
+This repository contains the implementation of the Emotion Detector application for the Embedding AI course final project.
 
 The project includes:
-* Python emotion detection module
-* Packaged application structure
-* Unit tests
-* Flask web interface
-* Error handling
-* Static code analysis compliance
+- The emotion detection module
+- The Flask web deployment
+- Unit tests
+- Error handling
+- Static code analysis
